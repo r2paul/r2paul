@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @r2paul
-- 👀 I’m interested in Web Development and UI/UX
 - 🌱 I’m currently learning B.Tech in CST
 
 
