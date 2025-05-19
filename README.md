@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @r2paul
-- 🌱 I’m currently learning B.Tech in CST
+- 🌱 Bachelor of Technology in Computer Science and Technology
+- I'm enthusiast to learn more about Machine Learning and AI 😊
 
 
 <!---
